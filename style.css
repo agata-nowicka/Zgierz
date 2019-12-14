@@ -1,0 +1,18 @@
+.wacek 
+    { ;
+      font-family: comic sans ms
+      font-style: normal; 
+      font-size: 30pt; 
+      font-weight: 700;
+      color: #000066; 
+      text-indent: 5pt; 
+      text-align: center;
+      background-color: silver;
+       line-height: 2;
+      }
+.klasa
+{
+max-height:500px; /* do modyfikacji*/ 
+overflow:auto; 
+}
+
